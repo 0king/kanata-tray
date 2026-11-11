@@ -11,3 +11,4 @@ kanata-tray.*toml*
 /kanata
 !default_config.toml
 fake-kanata.sh
+tmp/
